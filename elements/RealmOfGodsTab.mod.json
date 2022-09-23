@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Realm Of Gods Tab",
+    "icon": {
+      "value": "Blocks.STRUCTURE_BLOCK#2"
+    },
+    "showSearch": true
+  }
+}
